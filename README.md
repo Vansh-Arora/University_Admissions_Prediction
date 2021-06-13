@@ -1,6 +1,6 @@
 ### _**Project name**_:
 
-                     University_Admissions_Prediction(Prediction of chance of admission in university)
+University_Admissions_Prediction(Prediction of chance of admission in university)
 
 ### _**Description**_: 
                      In this project, we trained different models to find the probability of a student getting accepted into a particular university based on their profile. This project could be practically used to get the university acceptance rate for individual students using web application.
