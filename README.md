@@ -7,10 +7,9 @@
 
              
 ### _**Aim**_:       
-                   The ease of making better choices and decisions in terms of admission. This analysis of a student getting accepted into a particular university based on their                    profile,makes it easier for them to make accurate decision about their preferred colleges. Our analysis with different models would help giving probable   
-                   accuracy and this requires analytical methods for predicting future recommendation.
+                   The ease of making better choices and decisions in terms of admission. This analysis of a student getting accepted into a particular university based on their profile,makes it easier for them to make accurate decision about their preferred colleges. Our analysis with different models would help giving probable accuracy and this requires analytical methods for predicting future recommendation.
                    Today, most students make mistakes in their preference list due to lack of knowledge, improper and incorrect analysis of colleges and insecure predictions. 
-                   Hence repent and regret later. Our project will solve the general issue of the student community by using technology.
+                   Hence, repent and regret later. Our project will solve the general issue of the student community by using technology.
              
 ### _**WorkFlow**_:  
 
