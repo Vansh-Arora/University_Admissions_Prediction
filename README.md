@@ -1,8 +1,10 @@
 ### _**Project name**_:
+
                      University_Admissions_Prediction(Prediction of chance of admission in university)
 
 ### _**Description**_: 
                      In this project, we trained different models to find the probability of a student getting accepted into a particular university based on their profile. This project could be practically used to get the university acceptance rate for individual students using web application.
+
              
 ### _**Aim**_:       
                    The ease of making better choices and decisions in terms of admission. This analysis of a student getting accepted into a particular university based on their                    profile,makes it easier for them to make accurate decision about their preferred colleges. Our analysis with different models would help giving probable   
@@ -11,6 +13,7 @@
                    Hence repent and regret later. Our project will solve the general issue of the student community by using technology.
              
 ### _**WorkFlow**_:  
+
                    We will go through the following tasks:
                   (1) Understand the Problem Statement
                   (2) Import libraries and datasets
@@ -32,6 +35,7 @@
                    (f)Train Artificial Neural Network models to perform regression tasks
                    (g)Evaluate, compare and analyze the performance of different regression models
                    (h)Understand the difference between various regression models KPIs such as MSE, RMSE, MAE, R2, adjusted R2
+
              
 ### _**Models Used**_: 
                     Various regression models used are:</br>
@@ -41,6 +45,7 @@
                     4.Random Forest</br>
               
 ### _**Results**_:   
+
                    1.Linear Regression Model:  The accuracy was 0.7874878546005898
                    2.Artificial Neural Network:The accuracy was 0.6983130276203156
                    3.Decision Tree:            The accuracy was 0.5070773307560377
